@@ -1,3 +1,5 @@
+#added to my repository to practice clone and to use these intructions to fix my mac deployment of jump client
+
 # ![AmirTamj][logo] Deploy BeyondTrust Bomgar jump client on Mac OS with Intune
 [logo]: /images/Logo.png "AmirTamj Logo"
 
